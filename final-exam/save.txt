@@ -1,0 +1,3 @@
+save keyboard shortcut
+save menu item
+save ui button
