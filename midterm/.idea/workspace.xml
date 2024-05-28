@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcec10a6-3f51-402f-846c-58eed4f3e00c" name="Changes" comment="Another push">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/answers/Intermediate_06_Towa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/answers/Intermediate_06_VolleyballTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/answers/Intermediate_06_volleyBallPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2FN9l1nA9QENxFtGLlOaTX6oH08" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/elber/IdeaProjects/midterm-towaquimbayo/src/main/java/org/bcit/midterm/answers&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.bcit.midterm.questions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\elber\IdeaProjects\midterm-towaquimbayo\src\main\java\org\bcit\midterm\answers" />
+      <recent name="C:\Users\elber\IdeaProjects\midterm-towaquimbayo\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paul_bucci\IdeaProjects\Midterm\Midterm\img" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.bcit.midterm.answers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Basic_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bcit.midterm.questions.Basic_07" />
+      <module name="Midterm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bcit.midterm.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Basic_07" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcec10a6-3f51-402f-846c-58eed4f3e00c" name="Changes" comment="" />
+      <created>1664321824204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664321824204</updated>
+      <workItem from="1666116037585" duration="8982000" />
+      <workItem from="1666816083174" duration="2571000" />
+      <workItem from="1667955879471" duration="967000" />
+      <workItem from="1668025337663" duration="1340000" />
+      <workItem from="1668127691968" duration="14000" />
+      <workItem from="1668759203866" duration="105000" />
+      <workItem from="1669418406967" duration="88000" />
+      <workItem from="1669598231724" duration="1535000" />
+      <workItem from="1669706634076" duration="5000" />
+      <workItem from="1669757199319" duration="1599000" />
+      <workItem from="1670475301893" duration="1006000" />
+    </task>
+    <task id="LOCAL-00001" summary="Mid term commit">
+      <created>1666121604544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666121604544</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Another push">
+      <created>1666122060149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666122060149</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Another push">
+      <created>1666122518032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666122518032</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mid term commit" />
+    <MESSAGE value="Another push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another push" />
+  </component>
+</project>
