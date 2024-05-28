@@ -1,0 +1,11 @@
+{
+  "key1": "value",
+  "key2": 1,
+  "key3": 22.99
+},
+{
+  "my_int_array": [100, 20, 3, 4],
+  "my_float_array": [0.05, 12.3, 4.48],
+  "my_string_array": ["hello", "world again"],
+  "my_char_array": ['a', '\'', 'c']
+}
